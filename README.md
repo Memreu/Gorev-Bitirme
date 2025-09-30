@@ -11,15 +11,15 @@ Bu proje, Techcareernet tarafından düzenlenen Veri Bilimi Yaz Kampı kapsamın
 - İçerik: Model eğitimi, görselleştirme ve yorumlama.
 - Dosyalar: `II - Decision Tree.ipynb`, `II - Decision Tree.py`, veri dosyası.
 
-## 🔹 3. Veri Filtreleme & Sıralama
-- Amaç: Pandas ile veri üzerinde filtreleme, sıralama ve segmentasyon işlemleri.
-- İçerik: Nüfus, GDP, okuryazarlık gibi metriklere göre analizler.
-- Dosyalar: `III - Veri Filtreleme & Sıralama.ipynb`, `III - Veri Filtreleme & Sıralama.py`, veri dosyası.
-
-## 🔹 4. K-Means Kümeleme
+## 🔹 3. K-Means Kümeleme
 - Amaç: K-Means algoritması ile benzer özellikteki ülkeleri gruplamak.
 - İçerik: Küme sayısı belirleme, görselleştirme ve yorumlama.
 - Dosyalar: `IV - K-Means Kümeleme.ipynb`, `IV - K-Means Kümeleme.py`, veri dosyası.
+
+## 🔹 4. Veri Filtreleme & Sıralama
+- Amaç: Pandas ile veri üzerinde filtreleme, sıralama ve segmentasyon işlemleri.
+- İçerik: Nüfus, GDP, okuryazarlık gibi metriklere göre analizler.
+- Dosyalar: `III - Veri Filtreleme & Sıralama.ipynb`, `III - Veri Filtreleme & Sıralama.py`, veri dosyası.
 
 ---
 
